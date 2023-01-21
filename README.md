@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+![Dog Breed Identification][product-screenshot]
 
 > When I'm sitting at the cafe and I take a photo of a dog, I want to know what breed of dog it is.
 
